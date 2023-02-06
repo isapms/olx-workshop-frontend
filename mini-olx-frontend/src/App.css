@@ -1,0 +1,17 @@
+.App {
+  max-width: 1200px;
+  padding: 0 16px 16px 16px;
+  margin: auto;
+  text-align: center;
+}
+
+
+.App-header {
+  text-align: center;
+}
+
+h1.header__title {
+  text-align: center;
+  color: white;
+  margin: 8px 0;
+}
