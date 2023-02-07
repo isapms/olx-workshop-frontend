@@ -23,7 +23,7 @@ services:
       - mini-olx-data:/var/lib/mysql
 
   backend:
-    image: aipms/projects:mini-olx-backend
+    image: aipms/olx-women-workshop-2022-backend:latest
     depends_on:
       - database
     environment:
